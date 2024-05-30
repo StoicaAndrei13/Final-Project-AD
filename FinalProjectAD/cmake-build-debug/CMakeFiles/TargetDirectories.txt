@@ -1,0 +1,3 @@
+C:/Users/M.Cosmin/OneDrive/Desktop/Projects/CPP PROJECTS/ProiectFinalAD_ADEVARATINC/cmake-build-debug/CMakeFiles/ProiectFinalAD_ADEVARATINC.dir
+C:/Users/M.Cosmin/OneDrive/Desktop/Projects/CPP PROJECTS/ProiectFinalAD_ADEVARATINC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/M.Cosmin/OneDrive/Desktop/Projects/CPP PROJECTS/ProiectFinalAD_ADEVARATINC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
